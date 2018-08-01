@@ -45,7 +45,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise_token_auth'
 gem 'devise'
-gem "paperclip", "~> 5.0.0"
 gem 'rails_admin', '~> 1.3'
 gem 'geocoder'
 gem 'geokit'
